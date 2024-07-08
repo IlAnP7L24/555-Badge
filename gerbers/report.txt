@@ -1,0 +1,11 @@
+Plotted to 'D:\GeneralWorkspace\KiCAD\Test\gerbers\Test-F_Cu.gbr'.
+Plotted to 'D:\GeneralWorkspace\KiCAD\Test\gerbers\Test-B_Cu.gbr'.
+Plotted to 'D:\GeneralWorkspace\KiCAD\Test\gerbers\Test-F_Paste.gbr'.
+Plotted to 'D:\GeneralWorkspace\KiCAD\Test\gerbers\Test-B_Paste.gbr'.
+Plotted to 'D:\GeneralWorkspace\KiCAD\Test\gerbers\Test-F_Silkscreen.gbr'.
+Plotted to 'D:\GeneralWorkspace\KiCAD\Test\gerbers\Test-B_Silkscreen.gbr'.
+Plotted to 'D:\GeneralWorkspace\KiCAD\Test\gerbers\Test-F_Mask.gbr'.
+Plotted to 'D:\GeneralWorkspace\KiCAD\Test\gerbers\Test-B_Mask.gbr'.
+Plotted to 'D:\GeneralWorkspace\KiCAD\Test\gerbers\Test-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\GeneralWorkspace\KiCAD\Test\gerbers\Test-job.gbrjob'.
+Info: Done.
